@@ -1,8 +1,8 @@
 # 🛠️ HOME.CSV TRADUTOR
 
-O **HOME.CSV TRADUTOR** (desenvolvido por *LOBO NINTENDISTA*) é uma ferramenta automatizada com interface gráfica (GUI) minimalista em modo escuro, projetada para facilitar e agilizar a tradução e a limpeza de arquivos `.csv` do menu HomeButton do Nintendo Wii.
+O **HOME.CSV TRADUTOR** (desenvolvido por *LOBO NINTENDISTA*) é uma ferramenta automatizada com interface gráfica (GUI) minimalista, projetada para facilitar e agilizar a tradução e a limpeza de arquivos `.csv` do menu HomeButton do Nintendo Wii.
 
-Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (encoding), o programa automatiza o processo de substituição de strings e a remoção de linhas redundantes específicas de cada idioma.
+Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (encoding), o programa automatiza o processo de substituição de strings e a remoção de linhas redundantes específicas de cada idioma sem quebrar a estrutura binária própria do arquivo csv.
 
 
 <img width="499" height="383" alt="image" src="https://github.com/user-attachments/assets/498734b2-adc0-4324-81b6-1b14279ab9e4" />
