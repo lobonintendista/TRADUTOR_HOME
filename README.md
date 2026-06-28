@@ -48,13 +48,15 @@ Caso queira gerar sua própria versão (seja para suporte a 32-bits ou para apli
 
 Organize os arquivos: Deixe o script do tradutor e o ícone (icon.ico) na mesma pasta.
 
-Compile o projeto: Execute o seguinte comando no terminal para gerar um executável único e sem a janela preta do console:
+Compile o projeto: Execute o seguinte comando no terminal para gerar um executável único:
 
 Bash
 pyinstaller --onefile --windowed --icon=icon.ico seu_script.py
 O arquivo final estará disponível dentro da pasta criada chamada dist/.
 
-📝 Licença e Créditos
-Desenvolvedor: LOBO NINTENDISTA
+
 
 Sinta-se livre para clonar, abrir Issues ou enviar Pull Requests para melhorar os dicionários de tradução!
+
+📝 Licença e Créditos
+Desenvolvedor: LOBO NINTENDISTA
