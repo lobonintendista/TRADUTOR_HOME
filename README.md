@@ -4,7 +4,9 @@ O **HOME.CSV TRADUTOR** (desenvolvido por *LOBO NINTENDISTA*) é uma ferramenta 
 
 Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (encoding), o programa automatiza o processo de substituição de strings e a remoção de linhas redundantes específicas de cada idioma.
 
-<img width="503" height="387" alt="image" src="https://github.com/user-attachments/assets/5cfe294d-abea-4033-ad0b-0312527d4ad6" />
+
+<img width="499" height="383" alt="image" src="https://github.com/user-attachments/assets/498734b2-adc0-4324-81b6-1b14279ab9e4" />
+
 
 ---
 
