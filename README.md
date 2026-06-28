@@ -1,2 +1,49 @@
-# TRADUTOR_HOME
-TRADUTOR DE TEXTOS DE ARQUIVOS HOME DE WII
+# 🛠️ HOME.CSV TRADUTOR
+
+O **HOME.CSV TRADUTOR** (desenvolvido por *LOBO NINTENDISTA*) é uma ferramenta automatizada com interface gráfica (GUI) minimalista em modo escuro, projetada para facilitar e agilizar a tradução e a limpeza de arquivos `.csv` do menu HomeButton do Nintendo Wii.
+
+Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (encoding), o programa automatiza o processo de substituição de strings e a remoção de linhas redundantes específicas de cada idioma.
+
+---
+
+## ✨ Funcionalidades
+
+* 📂 **Processamento em Massa:** Selecione e traduza múltiplos arquivos `.csv` de uma única vez.
+* 🌍 **Suporte Multi-idioma:** Dicionários embutidos para Inglês, Espanhol, Francês, Japonês, Alemão, Italiano, Holandês, Chinês e Coreano.
+* 🔤 **Gerenciamento de Codificação:** Suporte nativo para `ANSI (CP1252)`, `UTF-8`, `UTF-16-LE`, `UTF-16-BE` e `Shift_JIS`.
+* 🧹 **Limpeza Automática:** Remove linhas de quebra de texto específicas que tornam-se desnecessárias após a tradução para o Português.
+* 🖥️ **Interface Moderna:** Desenvolvida em Tkinter com um tema escuro confortável.
+
+---
+
+## 🚀 Download e Compatibilidade
+
+Na aba **Releases**, você encontrará o executável (`.exe`) pronto para uso.
+
+⚠️ **Informação Importante sobre Arquitetura:**
+* O executável oficial disponibilizado está compilado em **64-bits** (compatível com a grande maioria dos computadores modernos com Windows 10 e 11).
+* **Precisa da versão 32-bits?** Se você utiliza um sistema operacional de 32-bits (x86), o executável padrão não irá abrir. Neste caso, será necessário realizar a compilação manual a partir do código-fonte utilizando um ambiente Python de 32-bits.
+
+---
+
+## 🛠️ Como Compilar (Para 32-bits ou Modificações)
+
+Caso queira gerar sua própria versão (seja para suporte a 32-bits ou para aplicar modificações no código), siga os passos abaixo:
+
+1. **Instale o Python:** Certifique-se de ter o Python instalado. *(Se o objetivo for gerar a versão de 32-bits, certifique-se de baixar e instalar a versão **32-bit (x86)** do Python em sua máquina).*
+2. **Instale o PyInstaller:** Abra o Prompt de Comando (CMD) e execute:
+   ```bash
+   pip install pyinstaller
+
+Organize os arquivos: Deixe o script do tradutor e o ícone (icon.ico) na mesma pasta.
+
+Compile o projeto: Execute o seguinte comando no terminal para gerar um executável único e sem a janela preta do console:
+
+Bash
+pyinstaller --onefile --windowed --icon=icon.ico seu_script.py
+O arquivo final estará disponível dentro da pasta criada chamada dist/.
+
+📝 Licença e Créditos
+Desenvolvedor: LOBO NINTENDISTA
+
+Sinta-se livre para clonar, abrir Issues ou enviar Pull Requests para melhorar os dicionários de tradução!
