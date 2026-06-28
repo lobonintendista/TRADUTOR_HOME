@@ -10,6 +10,13 @@ Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (e
 
 ---
 
+### 📂 Como usar:
+1. Baixe o arquivo executável na seção **Assets** logo abaixo.
+2. Abra o programa, escolha o idioma de origem do seu arquivo `.csv` e a codificação correta.
+3. Clique em **"Selecionar Arquivos CSV"**, escolha seus arquivos e confirme. Os novos arquivos traduzidos serão gerados na mesma pasta com o prefixo `n_`.
+
+---
+
 ## ✨ Funcionalidades
 
 * 📂 **Processamento em Massa:** Selecione e traduza múltiplos arquivos `.csv` de uma única vez.
