@@ -66,7 +66,7 @@ class CSVTranslator:
                 "on each Wii Remote in the": "em cada Wii Remote na ordem",
                 "desired player order.": "desejada para jogar.",
                 "Disconnecting...": "Desconectando...",
-                "Return to the Wii Menu?": "Deseja Retornar ao Menu do Wii?",
+                "Return to the Wii Menu?": "Deseja retornar ao Menu do Wii?",
                 "(Anything not saved will be lost.)": "(Dados sem salvar podem se perder)",
                 "Reset the software?": "Deseja reiniciar?",
                 "This will quit the game. Proceed?": "Isto encerrará o jogo. Continuar?"
