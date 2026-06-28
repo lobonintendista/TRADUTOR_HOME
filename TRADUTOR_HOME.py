@@ -67,7 +67,7 @@ class CSVTranslator:
                 "desired player order.": "desejada para jogar.",
                 "Disconnecting...": "Desconectando...",
                 "Return to the Wii Menu?": "Deseja retornar ao Menu do Wii?",
-                "(Anything not saved will be lost.)": "(Dados sem salvar podem se perder)",
+                "(Anything not saved will be lost.)": "(Risco de perda de Dados.)",
                 "Reset the software?": "Deseja reiniciar?",
                 "This will quit the game. Proceed?": "Isto encerrará o jogo. Continuar?"
             },
@@ -79,12 +79,12 @@ class CSVTranslator:
                 "orden de jugadores deseado.": "desejada para jogar.",
                 "Disconnecting...": "Desconectando...",
                 "Desconectando...": "Desconectando...",
-                "¿Deseas volver al menú de Wii?": "Retornar ao Menu do Wii?",
-                "Se perderán los datos": "(Dados sem salvar",
-                "no guardados.": "podem se perder)",
+                "¿Deseas volver al menú de Wii?": "Deseja retornar ao Menu do Wii?",
+                "Se perderán los datos": "(Risco de perda",
+                "no guardados.": "de Dados.)",
                 "¿Deseas reiniciar?": "Deseja reiniciar?",
-                "Se perderán los datos": "(Dados sem salvar",
-                "no guardados.": "podem se perder)",
+                "Se perderán los datos": "(Risco de perda",
+                "no guardados.": "de Dados.)",
                 "¿Esto cerrará el juego. ¿Continuar?": "Isto encerrará o jogo. Continuar?",
                 "Vas a salir del juego.": "Isto encerrará o jogo,",
                 "¿Deseas continuar?": "Continuar?"
@@ -96,12 +96,12 @@ class CSVTranslator:
                 "connecter dans l'ordre de": "em cada Wii Remote na ordem",
                 "votre choix.": "desejada para jogar.",
                 "Interruption des connexions...": "Desconectando...",
-                "Voulez-vous retourner au menu Wii?": "Retornar ao Menu do Wii?",
+                "Voulez-vous retourner au menu Wii?": "Deseja retornar ao Menu do Wii?",
                 "(Tout ce qui n'a pas été": "(Dados sem salvar",
-                "sauvegardé sera perdu.)": "(Dados sem salvar podem se perder)",
+                "sauvegardé sera perdu.)": "(Risco de perda de Dados.)",
                 "Voulez-vous réinitialiser?": "Deseja reiniciar?",
                 "(Tout ce qui n'a pas été": "(Dados sem salvar",
-                "sauvegardé sera perdu.)": "(Dados sem salvar podem se perder)",
+                "sauvegardé sera perdu.)": "(Risco de perda de Dados.)",
                 "Cela mettra fin au jeu. Souhaitez": "Isto encerrará o jogo.",
                 "Zurück zum Wii-Menü?": "Retornar ao Menu do Wii?",
                 "-vous continuer? (Tout ce qui n'a": "Continuar?"
@@ -111,10 +111,10 @@ class CSVTranslator:
                 "①ボタンと②ボタンを": "em cada Wii Remote na ordem",
                 "同時に押してください。": "desejada para jogar.",
                 "切断中・・・": "Desconectando...",
-                "Wiiメニューにもどりますか？": "Retornar ao Menu do Wii?",
-                "（保存していない内容は失われます）": "(Dados sem salvar podem se perder)",
+                "Wiiメニューにもどりますか？": "Deseja retornar ao Menu do Wii?",
+                "（保存していない内容は失われます）": "(Risco de perda de Dados.)",
                 "リセットしますか？": "Deseja reiniciar?",
-                "（保存していない内容は失われます）": "(Dados sem salvar podem se perder)",
+                "（保存していない内容は失われます）": "(Risco de perda de Dados.)",
                 "ゲームを終了します。": "Isto encerrará o jogo.",
                 "よろしいですか？": "Continuar?"
             },
@@ -123,10 +123,10 @@ class CSVTranslator:
                 "jeder Wii-FB in der gewünschten": "em cada Wii Remote na ordem",
                 "Spieler-Reihenfolge drücken.": "desejada para jogar.",
                 "Verbindung wird getrennt...": "Desconectando...",
-                "Zurück zum Wii-Menü?": "Retornar ao Menu do Wii?",
-                "gespeicherte Daten gehen verloren.)": "(Dados sem salvar podem se perder)",
+                "Zurück zum Wii-Menü?": "Deseja retornar ao Menu do Wii?",
+                "gespeicherte Daten gehen verloren.)": "(Risco de perda de Dados.)",
                 "Zurücksetzen?": "Deseja reiniciar?",
-                "Daten gehen verloren.)": "(Dados sem salvar podem se perder)"
+                "Daten gehen verloren.)": "(Risco de perda de Dados.)"
             },
             'Italiano': {
                 "Per reimpostare il collegamento": "Aperte simultaneamente ① e ②",
@@ -137,10 +137,10 @@ class CSVTranslator:
                 "desiderato.": "",
                 "Interruzione collegamento": "Desconectando...",
                 "in corso...": "",
-                "Vuoi tornare al menu Wii?": "Retornar ao Menu do Wii?",
-                "I dati non salvati andranno perduti.": "(Dados sem salvar podem se perder)",
+                "Vuoi tornare al menu Wii?": "Deseja retornar ao Menu do Wii?",
+                "I dati non salvati andranno perduti.": "(Risco de perda de Dados.)",
                 "Vuoi riavviare il software?": "Deseja reiniciar?",
-                "I dati non salvati andranno perduti.": "(Dados sem salvar podem se perder)"
+                "I dati non salvati andranno perduti.": "(Risco de perda de Dados.)"
             },
             'Holandês': {
                 "Druk tegelijk op ① en ② op": "Aperte simultaneamente ① e ②",
@@ -148,22 +148,22 @@ class CSVTranslator:
                 "in de gewenste spelervolgorde.": "desejada para jogar.",
                 "Bezig met het verbreken": "Desconectando...",
                 "van de verbinding...": "",
-                "Wil je terug naar het": "Retornar ao Menu do Wii?",
+                "Wil je terug naar het": "Deseja retornar ao Menu do Wii?",
                 "Wii-menu? Niet opgeslagen": "",
-                "gegevens gaan verloren.": "(Dados sem salvar podem se perder)",
+                "gegevens gaan verloren.": "(Risco de perda de Dados.)",
                 "Wil je terug naar het": "Deseja reiniciar?",
                 "titelscherm? Niet opgeslagen": "",
-                "gegevens gaan verloren.": "(Dados sem salvar podem se perder)"
+                "gegevens gaan verloren.": "(Risco de perda de Dados.)"
             },
             'Chinês': {
                 "请按照您需要的连接顺序，": "Aperte simultaneamente ① e ②",
                 "同时按Wii遥控器上的": "em cada Wii Remote na ordem",
                 "①键和②键。": "desejada para jogar.",
                 "正在断开连接……": "Desconectando...",
-                "要返回Wii菜单吗？": "Retornar ao Menu do Wii?",
-                "（未保存的内容将会丢失）": "(Dados sem salvar podem se perder)",
+                "要返回Wii菜单吗？": "Deseja retornar ao Menu do Wii?",
+                "（未保存的内容将会丢失）": "(Risco de perda de Dados.)",
                 "要重启吗？": "Deseja reiniciar?",
-                "（未保存的内容将会丢失）": "(Dados sem salvar podem se perder)"
+                "（未保存的内容将会丢失）": "(Risco de perda de Dados.)"
             },
             'Coreano': {
                 "먼저 접속할": "Aperte simultaneamente ① e ②",
@@ -172,10 +172,10 @@ class CSVTranslator:
                 "② 버튼을 동시에": "",
                 "눌러 주십시오.": "",
                 "접속 해제 중...": "Desconectando...",
-                "Wii 메뉴로 돌아가시겠습니까?": "Retornar ao Menu do Wii?",
-                "(저장되지 않은 내용은 사라집니다)": "(Dados sem salvar podem se perder)",
+                "Wii 메뉴로 돌아가시겠습니까?": "Deseja retornar ao Menu do Wii?",
+                "(저장되지 않은 내용은 사라집니다)": "(Risco de perda de Dados.)",
                 "리셋하시겠습니까?": "Deseja reiniciar?",
-                "(저장되지 않은 내용은 사라집니다)": "(Dados sem salvar podem se perder)"
+                "(저장되지 않은 내용은 사라집니다)": "(Risco de perda de Dados.)"
             }
         }
         
