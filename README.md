@@ -52,6 +52,7 @@ Compile o projeto: Execute o seguinte comando no terminal para gerar um executá
 
 Bash:
 pyinstaller --onefile --windowed --icon=icon.ico TRADUTOR_HOME.py
+
 O arquivo final estará disponível dentro da pasta criada chamada dist/.
 
 
