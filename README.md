@@ -11,8 +11,8 @@ Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (e
 ---
 
 ### 📂 Como usar:
-1. Baixe o arquivo executável na seção **Assets** logo abaixo.
-2. Abra o programa, escolha o idioma de origem do seu arquivo `.csv` e a codificação correta.
+1. Baixe o arquivo executável na seção **new release**.
+2. Abra o programa, escolha a codificação correta e o idioma de origem do seu arquivo `.csv` (Geralmente os jogos de wii usam muito a codificação UTF-16 BE)
 3. Clique em **"Selecionar Arquivos CSV"**, escolha seus arquivos e confirme. Os novos arquivos traduzidos serão gerados na mesma pasta com o prefixo `n_`.
 
 ---
