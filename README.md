@@ -50,8 +50,8 @@ Organize os arquivos: Deixe o script do tradutor e o ícone (icon.ico) na mesma 
 
 Compile o projeto: Execute o seguinte comando no terminal para gerar um executável único:
 
-Bash
-pyinstaller --onefile --windowed --icon=icon.ico seu_script.py
+Bash:
+pyinstaller --onefile --windowed --icon=icon.ico TRADUTOR_HOME.py
 O arquivo final estará disponível dentro da pasta criada chamada dist/.
 
 
