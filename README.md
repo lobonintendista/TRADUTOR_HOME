@@ -8,6 +8,20 @@ Com suporte a múltiplos idiomas e diferentes tipos de codificação de texto (e
 <img width="499" height="383" alt="image" src="https://github.com/user-attachments/assets/498734b2-adc0-4324-81b6-1b14279ab9e4" />
 
 
+## Estrutura do homeBtn.arc
+
+| Arquivo/Pasta | Descrição |
+|---------------|-----------|
+| `anim/` | Arquivos `.brlan` com animações e transições do Menu HOME. |
+| `blyt/` | Arquivo `.brlyt` responsável pelo layout como posição e tamanho dos elementosda na interface. |
+| `font/` | Fontes `.brfnt` utilizadas pelo menu pelo arquivo home.csv. |
+| `timg/` | Texturas `.tpl` Texturas .tpl com gráficos em png (botões, ícones, fundo, bateria, volume, etc.). |
+| `home.csv` | Arquivo com textos exibidos pelo Menu HOME, ao qual o programa irá traduzir |
+
+
+OBS: Link com gráficos traduzidos do arquivo `timg/`: https://github.com/lobonintendista/Gr-ficos-homeBtn-straps-BR/blob/main/README.md
+
+
 ---
 
 ### 📂 Como usar:
